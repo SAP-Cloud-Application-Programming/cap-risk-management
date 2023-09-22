@@ -1,4 +1,4 @@
 # cap-risk-management
 
-Create a CAP-Based Application
-https://developers.sap.com/tutorials/btp-app-create-cap-application.html
+Create an SAP Fiori Elements-Based UI
+https://developers.sap.com/tutorials/btp-app-create-ui-fiori-elements.html
