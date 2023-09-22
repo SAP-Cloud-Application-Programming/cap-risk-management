@@ -1,4 +1,4 @@
-# cap-risk-management
+# cap-business-logic
 
-Create a CAP-Based Application
-https://developers.sap.com/tutorials/btp-app-create-cap-application.html
+Add Business Logic to Application
+https://developers.sap.com/tutorials/btp-app-cap-business-logic.html
