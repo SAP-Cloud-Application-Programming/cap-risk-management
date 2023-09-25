@@ -1,4 +1,4 @@
-# cap-risk-management
+# create-ui-freestyle-sapui5
 
-Create a CAP-Based Application
-https://developers.sap.com/tutorials/btp-app-create-cap-application.html
+Create a UI Using Freestyle SAPUI5
+https://developers.sap.com/tutorials/btp-app-create-ui-freestyle-sapui5.html
