@@ -1,4 +1,4 @@
-# cap-risk-management
+# btp-app-launchpage
 
-Create a CAP-Based Application
-https://developers.sap.com/tutorials/btp-app-create-cap-application.html
+Use a Local Launch Page
+https://developers.sap.com/tutorials/btp-app-launchpage.html
