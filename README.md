@@ -1,4 +1,4 @@
-# cap-risk-management
+# prepare-xsuaa
 
-Create a CAP-Based Application
-https://developers.sap.com/tutorials/btp-app-create-cap-application.html
+Prepare User Authentication and Authorization (XSUAA) Setup
+https://developers.sap.com/tutorials/btp-app-prepare-xsuaa.html
